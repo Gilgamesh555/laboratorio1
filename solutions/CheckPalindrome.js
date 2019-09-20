@@ -7,3 +7,4 @@ function checkPalindrome(inputString) {
     return true;
 }
 module.exports = checkPalindrome;
+///
